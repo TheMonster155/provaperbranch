@@ -11,7 +11,7 @@ function crazySum(x, y) {
         return x + y
     }
 }
-console.log(crazySum(5, 5));
+console.log(crazySum(5, 6));
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
@@ -27,7 +27,7 @@ function boundary (a) {
     }
   
 }
-console.log(boundary(401))
+console.log(boundary(500))
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
